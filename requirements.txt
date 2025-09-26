@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+chainlit
+Pillow
+google-generativeai
+plotly
+wordcloud
+scikit-learn
+tabulate
+scipy
