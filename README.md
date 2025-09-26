@@ -248,7 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/Moiz-Ali-Max/eda-ai-agent/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Moiz-Ali-Max/eda-ai-agent/discussions)
-- **Email**: moizaliafzaal.com
+- **Email**: moizaliafzaal@gmail.com
 
 ## 🎯 Roadmap
 
