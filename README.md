@@ -181,29 +181,6 @@ AI Insight Generation → Report Compilation
 - **Rate Limiting** - Responsible API usage
 - **Response Validation** - Ensuring quality insights
 
-## 🚦 Error Handling
-
-The application includes comprehensive error handling for:
-- ❌ **File Format Issues** - Unsupported formats or corrupted files
-- ❌ **Encoding Problems** - Automatic encoding detection and fallback
-- ❌ **API Limitations** - Graceful degradation when AI is unavailable
-- ❌ **Memory Constraints** - Large file handling optimization
-- ❌ **Network Issues** - Timeout and retry mechanisms
-
-## 🔒 Security & Privacy
-
-- **Local Processing** - Data never leaves your environment except for AI API calls
-- **Temporary Storage** - Files automatically cleaned after processing
-- **API Key Security** - Environment variable usage
-- **No Data Persistence** - Analysis results not stored permanently
-
-## 📈 Performance Optimization
-
-- **Async Processing** - Non-blocking operations for better UX
-- **Memory Management** - Efficient handling of large datasets
-- **Caching** - Smart caching for repeated operations
-- **Progressive Loading** - Incremental result delivery
-- **Resource Cleanup** - Automatic temporary file management
 
 ## 🤝 Contributing
 
