@@ -245,17 +245,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 💡 About the Architecture
 
-This project represents the intersection of AI and data visualization, solving the challenge of making complex statistical insights accessible through natural language generation. The architecture emphasizes:
 
-- **Scalability** - Async processing for handling large datasets
-- **Modularity** - Clean separation of concerns
-- **Extensibility** - Easy to add new visualization types and AI models
-- **User Experience** - Professional interface with clear progress indicators
-- **Performance** - Optimized for speed and memory efficiency
-
----
 
 **Built with ❤️ for the data science community**
 
